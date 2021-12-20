@@ -1,4 +1,4 @@
-use coaster_engine::engine::coaster_engine::CoasterEngine;
+use engine::engine::coaster_engine::CoasterEngine;
 
 fn main() {
     let coaster_engine = CoasterEngine::new();

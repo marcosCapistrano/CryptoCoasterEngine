@@ -1,7 +1,7 @@
 [workspace]
 
 members = [
-	"coaster_engine",
-	"crypto_coaster",
-	"coaster_editor"
+	"engine",
+	"game",
+	"editor"
 ]
